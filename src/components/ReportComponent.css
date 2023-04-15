@@ -1,0 +1,16 @@
+.report-container {
+    display: flex;
+    justify-content: space-between;
+    background-color: antiquewhite;
+    padding: 20px;
+}
+
+.reportIncome {
+    font-size: 32px;
+    color: green;
+}
+
+.reportOut {
+    font-size: 32px;
+    color: red
+}
